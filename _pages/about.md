@@ -17,42 +17,46 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am currently a PhD student at Deakin University. I received the B. Sc. degree in information technology from Monash University, Australia in 2020, and the M. Sc. degree in data science at Deakin University, Australia in 2021. My research interests include clustering analysis, anomaly detection and their application in renewable energy with <a href='https://scholar.google.com/citations?user=user=zn19uAcAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=user=zn19uAcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
-# 🔥 News
+<!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- Cao, Y., Pokhrel, S. R., Zhu, Y., Doss, R., & Li, G. (2024). Automation and orchestration of zero trust architecture: Potential solutions and challenges. Machine Intelligence Research, 21(2), 294-317.
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+- Cao, Y., Zhu, Y., Ting, K. M., Salim, F. D., Li, H. X., Yang, L., & Li, G. (2024). Detecting Change Intervals with Isolation Distributional Kernel. Journal of Artificial Intelligence Research, 79, 273-306.
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+- Cao, Y., Zhu, Y., Ting, K. M., Salim, F. D., Li, H. X., Yang, L., & Li, G. (2024). Detecting Change Intervals with Isolation Distributional Kernel (Abstract). IJCAI 2024.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+- Li, C., Cao, Y., Zhu, Y., Cheng, D., Li, C., & Morimoto, Y. (2024). Ripple knowledge graph convolutional networks for recommendation systems. Machine Intelligence Research, 1-14.
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- Gan, C., Fu, X., Feng, Q., Zhu, Q., Cao, Y., & Zhu, Y. (2024). A multimodal fusion network with attention mechanisms for visual–textual sentiment analysis. Expert Systems with Applications, 242, 122731.
+
+- Li, C., Cao, Y., Zhu, Y., Zhang, J., Annisa, A., Cheng, D., ... & Morimoto, Y. (2023, August). An Enhanced Distributed Algorithm for Area Skyline Computation Based on Apache Spark. In International Conference on Knowledge Science, Engineering and Management (pp. 35-43). Cham: Springer Nature Switzerland.
+
+- Liu, Y., Zhang, Y., Cao, Y., Zhu, Y., Zaidi, N., Ranaweera, C., ... & Zhu, Q. (2023, August). Kernel-Based Feature Extraction for Time Series Clustering. In International Conference on Knowledge Science, Engineering and Management (pp. 276-283). Cham: Springer Nature Switzerland.
+
+- Gong, L., Zhang, H., Liu, Z., Ting, K. M., Cao, Y., & Zhu, Y. (2024, April). Local Subsequence-Based Distribution for Time Series Clustering. In Pacific-Asia Conference on Knowledge Discovery and Data Mining (pp. 259-270). Singapore: Springer Nature Singapore.
+
+- Zhang, B., Cao, Y., Zhu, Y., Rajasegarar, S., Liu, G., Li, H. X., ... & Li, G. (2023, May). An Improved Visual Assessment with Data-Dependent Kernel for Stream Clustering. In Pacific-Asia 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- 2020, **Wong Swee Soon Prize for Student Excellence** (Industry Experience studio projects), Monash University, Australia.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2019.06 - 2022.04 (now)*, Doctor of Philosophy. Deakin University, Australia. 
+- *2020.08 – 2021.10*, Master of Data Science. Deakin University, Australia.
+- *2017.03 - 2020.07*, Bachelor of Information Technology. Monash University, Australia. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💬 Tutorial Talks
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Experience
+- *2022 - Present*. *Teaching Assistant*. Deakin University.
+--SIT718, Real World Analytics
+--MIS772, Predictive Analytics
+--SIT708, Mobile Application Development
+--MIS373, Artificial Intelligence for Business
