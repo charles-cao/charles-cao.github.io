@@ -63,9 +63,6 @@ In my free time, I enjoy playing basketball and fishing.
 
 - **Moving Beyond Traditional Anomaly Detection (2023).** Ye Zhu (Deakin University), Gang Li (Deakin University), **Yang Cao** (Deakin University). The 32nd International Joint Conference on Artificial Intelligence (IJCAI 2023).
 
-# 🎖 Honors and Awards
-- 2020, **Wong Swee Soon Prize for Student Excellence** (Industry Experience studio projects), Monash University, Australia.
-
 
 
 # 💻 Experience
@@ -74,3 +71,7 @@ In my free time, I enjoy playing basketball and fishing.
 -- MIS772, Predictive Analytics
 -- SIT708, Mobile Application Development
 -- MIS373, Artificial Intelligence for Business
+
+
+# 🎖 Honors and Awards
+- 2020, **Wong Swee Soon Prize for Student Excellence** (Industry Experience studio projects), Monash University, Australia.
