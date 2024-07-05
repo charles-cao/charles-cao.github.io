@@ -70,7 +70,7 @@ In my free time, I enjoy playing basketball and fishing.
 
 # 💻 Experience
 - *2022 - Present*. *Teaching Assistant*. Deakin University.
---SIT718, Real World Analytics
---MIS772, Predictive Analytics
---SIT708, Mobile Application Development
---MIS373, Artificial Intelligence for Business
+-- SIT718, Real World Analytics
+-- MIS772, Predictive Analytics
+-- SIT708, Mobile Application Development
+-- MIS373, Artificial Intelligence for Business
