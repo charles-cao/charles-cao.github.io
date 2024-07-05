@@ -54,7 +54,7 @@ In my free time, I enjoy playing basketball and fishing.
 
 - Liu, Y., Zhang, Y., **Cao, Y.**, Zhu, Y., Zaidi, N., Ranaweera, C., ... & Zhu, Q. (2023, August). Kernel-Based Feature Extraction for Time Series Clustering. In International Conference on Knowledge Science, Engineering and Management (pp. 276-283). Cham: Springer Nature Switzerland.
 
-- Zhang, B., **Cao, Y.**, Zhu, Y., Rajasegarar, S., Liu, G., Li, H. X., ... & Li, G. (2023, May). An Improved Visual Assessment with Data-Dependent Kernel for Stream Clustering. In Pacific-Asia 
+- Zhang, B., **Cao, Y.**, Zhu, Y., Rajasegarar, S., Liu, G., Li, H. X., ... & Li, G. (2023, May). An Improved Visual Assessment with Data-Dependent Kernel for Stream Clustering. In Pacific-Asia Conference on Knowledge Discovery and Data Mining (pp. 197-209). Cham: Springer Nature Switzerland.
 
 # 💬 Tutorial Talks
 - **Moving Beyond Traditional Anomaly Detection (2023).** Ye Zhu (Deakin University), Gang Li (Deakin University), Chen Li (Nagoya University), **Yang Cao** (Deakin University). The 27th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2023)
