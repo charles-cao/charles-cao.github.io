@@ -21,7 +21,7 @@ redirect_from:
 
 I am currently a PhD student at Deakin University. I received the B. Sc. degree in information technology from Monash University, Australia in 2020, and the M. Sc. degree in data science at Deakin University, Australia in 2021. 
 
-My research interests include clustering analysis, anomaly detection and their application in renewable energy with  <a href='https://scholar.google.com/citations?user=user=zn19uAcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests include clustering analysis, anomaly detection and their application in renewable energy with  <a href='https://scholar.google.com/citations?user=user=zn19uAcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 In my free time, I enjoy playing basketball and fishing.
 
