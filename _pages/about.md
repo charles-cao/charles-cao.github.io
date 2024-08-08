@@ -40,7 +40,7 @@ In my free time, I enjoy playing basketball and fishing.
 
 - **Cao, Y.**, Zhu, Y., Ting, K. M., Salim, F. D., Li, H. X., Yang, L., & Li, G. (2024). Detecting Change Intervals with Isolation Distributional Kernel. Journal of Artificial Intelligence Research, 79, 273-306.
 
-- **Cao, Y.**, Zhu, Y., Ting, K. M., Salim, F. D., Li, H. X., Yang, L., & Li, G. (2024). Detecting Change Intervals with Isolation Distributional Kernel (Abstract). IJCAI 2024.
+- **Cao, Y.**, Zhu, Y., Ting, K. M., Salim, F. D., Li, H. X., Yang, L., & Li, G. (2024). Detecting Change Intervals with Isolation Distributional Kernel (Abstract Reprint). IJCAI 2024.
 
 - **Cao, Y.**, Xiang, H., Zhang, H., Zhu, Y., & Ting, K. M. (2024). Anomaly Detection Based on Isolation Mechanisms: A Survey. arXiv preprint arXiv:2403.10802.
 
@@ -53,6 +53,8 @@ In my free time, I enjoy playing basketball and fishing.
 - Gan, C., Fu, X., Feng, Q., Zhu, Q., **Cao, Y.**, & Zhu, Y. (2024). A multimodal fusion network with attention mechanisms for visual–textual sentiment analysis. Expert Systems with Applications, 242, 122731.
 
 - Gong, L., Zhang, H., Liu, Z., Ting, K. M., **Cao, Y.**, & Zhu, Y. (2024, April). Local Subsequence-Based Distribution for Time Series Clustering. In Pacific-Asia Conference on Knowledge Discovery and Data Mining (pp. 259-270). Singapore: Springer Nature Singapore.
+
+- Li, C., Zhu, Y., **Cao, Y.**, Zhang, J., Annisa, A., Cheng, D., & Morimoto, Y. (2024). Mining Area Skyline Objects from Map-based Big Data using Apache Spark Framework. arXiv preprint arXiv:2404.03254.
 
 - Li, C., **Cao, Y.**, Zhu, Y., Zhang, J., Annisa, A., Cheng, D., ... & Morimoto, Y. (2023, August). An Enhanced Distributed Algorithm for Area Skyline Computation Based on Apache Spark. In International Conference on Knowledge Science, Engineering and Management (pp. 35-43). Cham: Springer Nature Switzerland.
 
