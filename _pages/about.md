@@ -42,7 +42,11 @@ In my free time, I enjoy playing basketball and fishing.
 
 - **Cao, Y.**, Zhu, Y., Ting, K. M., Salim, F. D., Li, H. X., Yang, L., & Li, G. (2024). Detecting Change Intervals with Isolation Distributional Kernel (Abstract). IJCAI 2024.
 
+- **Cao, Y.**, Xiang, H., Zhang, H., Zhu, Y., & Ting, K. M. (2024). Anomaly Detection Based on Isolation Mechanisms: A Survey. arXiv preprint arXiv:2403.10802.
+
 - **Cao, Y.**, Ma, Y., Zhu, Y., & Ting, K. M. (2024). Revisiting Streaming Anomaly Detection: Benchmark and Evaluation. Authorea Preprints.
+
+- Gan, C., Zheng, J., Zhu, Q., **Cao, Y.**, & Zhu, Y. (2024). A survey of dialogic emotion analysis: Developments, approaches and perspectives. Pattern Recognition, 110794.
 
 - Li, C., **Cao, Y.**, Zhu, Y., Cheng, D., Li, C., & Morimoto, Y. (2024). Ripple knowledge graph convolutional networks for recommendation systems. Machine Intelligence Research, 1-14.
 
