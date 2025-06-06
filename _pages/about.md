@@ -19,14 +19,14 @@ redirect_from:
 
 # Welcome!
 
-I am currently a PhD student at Deakin University. I received the B. Sc. degree in information technology from Monash University, Australia in 2020, and the M. Sc. degree in data science at Deakin University, Australia in 2021. 
+I am currently a Postdoc reseacher at Tsinghua University and Great Bay university. I received my PhD degree from Deakin University in 2025. Before it, I recieved the B. Sc. degree in information technology from Monash University, Australia in 2020, and the M. Sc. degree in data science at Deakin University, Australia in 2021. 
 
 My research interests include clustering analysis, anomaly detection and their application in renewable energy with  <a href='https://scholar.google.com/citations?user=user=zn19uAcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 In my free time, I enjoy playing basketball and fishing.
 
 # 📖 Educations
-- *2022.03 - Present*, Doctor of Philosophy. Deakin University, Australia. 
+- *2022.03 - 2025.03*, Doctor of Philosophy. Deakin University, Australia. 
 - *2020.08 – 2021.10*, Master of Data Science. Deakin University, Australia.
 - *2017.03 - 2020.07*, Bachelor of Information Technology. Monash University, Australia. 
 
