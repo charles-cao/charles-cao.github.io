@@ -2,15 +2,15 @@
 layout: about
 title: About
 permalink: /
-subtitle: Postdoctoral Researcher, <a href='https://www.gbu.edu.cn/'>Great Bay University</a> & <a href='https://www.sigs.tsinghua.edu.cn/'>Tsinghua Shenzhen International Graduate School</a>
+subtitle: Postdoctoral Research Fellow, <a href='https://www.sigs.tsinghua.edu.cn/'>Tsinghua Shenzhen International Graduate School</a>, Tsinghua University
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p>Great Bay University</p>
-    <p>Dongguan, Guangdong, China</p>
+    <p>Tsinghua Shenzhen International Graduate School</p>
+    <p>Shenzhen, Guangdong, China</p>
 
 selected_papers: true
 social: true
@@ -24,9 +24,9 @@ latest_posts:
   enabled: false
 ---
 
-I am a postdoctoral researcher jointly supervised by Great Bay University and Tsinghua Shenzhen International Graduate School, Tsinghua University, working with Dr. Sikun Yang and Prof. Yujiu Yang. I was selected for the Ministry of Education Overseas Postdoctoral Talent Program in 2025.
+I am a Postdoctoral Research Fellow at Tsinghua Shenzhen International Graduate School, Tsinghua University, working with Prof. Yujiu Yang. I was selected for the Ministry of Education Overseas Postdoctoral Talent Program in 2025.
 
-I received my PhD in Computer Science from Deakin University, Australia, in 2025, under the supervision of Dr. Ye Zhu and Prof. Kai Ming Ting. Before that, I received the M.Sc. degree in Data Science from Deakin University in 2021 and the B.Sc. degree in Information Technology from Monash University in 2020.
+I received my PhD in Computer Science from Deakin University, Australia, in 2025. Before that, I received the M.Sc. degree in Data Science from Deakin University in 2021 and the B.Sc. degree in Information Technology from Monash University in 2020.
 
 My research focuses on the theory and algorithms of **anomaly detection**, including:
 
@@ -35,5 +35,10 @@ My research focuses on the theory and algorithms of **anomaly detection**, inclu
 - Text anomaly detection, at both the document level and the token level
 
 I maintain [**PyTextAD**](https://github.com/charles-cao/pytextad), an open-source Python library for document-level and token-level text anomaly detection with 23 detectors under one interface (`pip install pytextad`, [docs](https://pytextad.readthedocs.io), [online demo](https://huggingface.co/spaces/Charles-Cao/pytextad)).
+
+### Research Funding
+
+- **Awardee**, 2025 Special Programme for Overseas Postdoctoral Talent Recruitment, Ministry of Education of China
+- **Principal Investigator**, Guangdong Basic and Applied Basic Research Foundation, Young Scientists Fund: *Industrial Anomaly Detection Based on Isolation Mechanisms*
 
 [中文简介]({{ '/zh/' | relative_url }})

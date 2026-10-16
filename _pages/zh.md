@@ -2,14 +2,14 @@
 layout: page
 permalink: /zh/
 title: 中文
-description: 曹杨 · 大湾区大学 / 清华大学深圳国际研究生院 联合培养博士后
+description: 曹杨 · 清华大学深圳国际研究生院 博士后
 nav: true
 nav_order: 7
 ---
 
 ## 个人简介
 
-曹杨，大湾区大学与清华大学深圳国际研究生院联合培养博士后，合作导师为杨斯崑博士和杨余久教授，入选 2025 年教育部博士后海外引才专项计划。2025 年获澳大利亚迪肯大学计算机科学博士学位，导师为 Ye Zhu 博士和 Kai Ming Ting 教授。此前于 2021 年获迪肯大学数据科学硕士学位，2020 年获莫纳什大学信息技术学士学位。
+曹杨，清华大学深圳国际研究生院博士后，合作导师为杨余久教授，入选 2025 年教育部博士后海外引才专项计划。2025 年获澳大利亚迪肯大学计算机科学博士学位。此前于 2021 年获迪肯大学数据科学硕士学位，2020 年获莫纳什大学信息技术学士学位。
 
 研究方向为异常检测的理论与算法，包括基于隔离机制与核方法的异常检测、流数据与变点检测、以及文本异常检测（文档级与词元级）。研究成果发表于 WWW、ICDM、Findings of EMNLP、JAIR、Machine Learning、Artificial Intelligence Review、Machine Intelligence Research 等会议和期刊。开源了文本异常检测工具库 [PyTextAD]({{ '/software/' | relative_url }})。
 
@@ -23,14 +23,13 @@ nav_order: 7
 
 ## 工作经历
 
-- 2025.06 至今，大湾区大学 / 清华大学深圳国际研究生院，博士后
-- 2022 - 2025，迪肯大学，助教（Real World Analytics、Predictive Analytics、Mobile Application Development、Artificial Intelligence for Business）
+- 2025.04 至今，清华大学深圳国际研究生院，博士后
+- 2022.03 - 2025.03，迪肯大学信息技术学院，助教（SIT718、MIS772、SIT708、SIT741 等课程）
 
 ## 科研项目
 
-- 教育部博士后海外引才专项计划（2025），主持
-- 广东省基础与应用基础研究基金青年基金项目，主持
-- 广东省基础与应用基础研究基金粤莞联合基金青年项目，参与
+- 入选 2025 年教育部博士后海外引才专项计划
+- 广东省基础与应用基础研究基金青年基金项目“基于孤立机制的工业异常检测研究”，主持
 
 ## 代表性论文
 
@@ -46,6 +45,7 @@ nav_order: 7
 
 ## 学术服务
 
-- ADMA 2025 ATKD 专题研讨会主席
-- 担任 ICML、NeurIPS、IJCAI 审稿人
+- ADMA 2025、2026 Adaptive and Trustworthy Knowledge Discovery 专题主席
+- 会议审稿：ICML、NeurIPS、KDD、AAAI、IJCAI、ECAI、ICDM、WWW
+- 期刊审稿：TPAMI、TNNLS、TAI、TII、IoT-J、TIST、DMKD
 - 在 PAKDD 2023、ECML PKDD 2023、IJCAI 2023 合作讲授异常检测 Tutorial
