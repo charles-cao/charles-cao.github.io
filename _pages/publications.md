@@ -4,7 +4,7 @@ permalink: /publications/
 title: publications
 description: "* denotes corresponding author. Full list also on <a href=\"https://scholar.google.com/citations?user=zn19uAcAAAAJ\">Google Scholar</a>."
 nav: true
-nav_order: 2
+nav_order: 1
 ---
 
 <!-- _pages/publications.md -->

@@ -3,7 +3,7 @@ layout: page
 permalink: /cv/
 title: CV
 nav: true
-nav_order: 3
+nav_order: 5
 description:
 ---
 
@@ -27,11 +27,7 @@ description:
 <br>2025.06 - Present · Co-supervisors: Dr. Sikun Yang and Prof. Yujiu Yang
 
 **Teaching Assistant**, Deakin University
-<br>2022 - 2025
-- SIT718 Real World Analytics
-- MIS772 Predictive Analytics
-- SIT708 Mobile Application Development
-- MIS373 Artificial Intelligence for Business (workshop material development)
+<br>2022 - 2025 · See [teaching]({{ '/teaching/' | relative_url }})
 
 ## Grants
 

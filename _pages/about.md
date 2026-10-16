@@ -35,4 +35,6 @@ My research focuses on the theory and algorithms of **anomaly detection**, inclu
 - text anomaly detection, at both document level and token level
 - incomplete heterogeneous data
 
-我目前在大湾区大学与清华大学深圳国际研究生院从事联合培养博士后研究，入选 2025 年教育部博士后海外引才专项计划。研究方向为异常检测的理论与算法，包括基于隔离机制与核方法的异常检测、流数据与变点检测、文本异常检测，以及不完整异构数据分析。
+I maintain [**PyTextAD**](https://github.com/charles-cao/pytextad), an open-source Python library for document-level and token-level text anomaly detection with 23 detectors under one interface (`pip install pytextad`, [docs](https://pytextad.readthedocs.io), [online demo](https://huggingface.co/spaces/Charles-Cao/pytextad)).
+
+[中文简介]({{ '/zh/' | relative_url }})
