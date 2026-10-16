@@ -46,11 +46,6 @@ description:
 - Special Session Chair, ATKD Special Session, ADMA 2025
 - Reviewer: ICML, NeurIPS, IJCAI
 
-## Honors and Awards
-
-- Best Paper Nomination, PAKDD 2023
-- Wong Swee Soon Prize for Student Excellence (Industry Experience studio projects), Monash University, 2020
-
 ## Publications
 
 See the [publications]({{ '/publications/' | relative_url }}) page.

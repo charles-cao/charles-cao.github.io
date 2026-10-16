@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Postdoctoral Researcher, <a href='https://www.gbu.edu.cn/'>Great Bay University</a> & <a href='https://www.sigs.tsinghua.edu.cn/'>Tsinghua Shenzhen International Graduate School</a>
 
@@ -30,10 +30,9 @@ I received my PhD in Computer Science from Deakin University, Australia, in 2025
 
 My research focuses on the theory and algorithms of **anomaly detection**, including:
 
-- isolation-based and kernel-based methods
-- streaming data and change detection
-- text anomaly detection, at both document level and token level
-- incomplete heterogeneous data
+- Isolation-based and kernel-based methods
+- Streaming data and change detection
+- Text anomaly detection, at both the document level and the token level
 
 I maintain [**PyTextAD**](https://github.com/charles-cao/pytextad), an open-source Python library for document-level and token-level text anomaly detection with 23 detectors under one interface (`pip install pytextad`, [docs](https://pytextad.readthedocs.io), [online demo](https://huggingface.co/spaces/Charles-Cao/pytextad)).
 

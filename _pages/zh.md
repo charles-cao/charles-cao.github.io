@@ -11,7 +11,7 @@ nav_order: 7
 
 曹杨，大湾区大学与清华大学深圳国际研究生院联合培养博士后，合作导师为杨斯崑博士和杨余久教授，入选 2025 年教育部博士后海外引才专项计划。2025 年获澳大利亚迪肯大学计算机科学博士学位，导师为 Ye Zhu 博士和 Kai Ming Ting 教授。此前于 2021 年获迪肯大学数据科学硕士学位，2020 年获莫纳什大学信息技术学士学位。
 
-研究方向为异常检测的理论与算法，包括基于隔离机制与核方法的异常检测、流数据与变点检测、文本异常检测（文档级与词元级），以及不完整异构数据分析。研究成果发表于 WWW、ICDM、Findings of EMNLP、JAIR、Machine Learning、Artificial Intelligence Review、Machine Intelligence Research 等会议和期刊。开源了文本异常检测工具库 [PyTextAD]({{ '/software/' | relative_url }})。
+研究方向为异常检测的理论与算法，包括基于隔离机制与核方法的异常检测、流数据与变点检测、以及文本异常检测（文档级与词元级）。研究成果发表于 WWW、ICDM、Findings of EMNLP、JAIR、Machine Learning、Artificial Intelligence Review、Machine Intelligence Research 等会议和期刊。开源了文本异常检测工具库 [PyTextAD]({{ '/software/' | relative_url }})。
 
 邮箱：charles.cao@ieee.org
 
@@ -49,8 +49,3 @@ nav_order: 7
 - ADMA 2025 ATKD 专题研讨会主席
 - 担任 ICML、NeurIPS、IJCAI 审稿人
 - 在 PAKDD 2023、ECML PKDD 2023、IJCAI 2023 合作讲授异常检测 Tutorial
-
-## 荣誉
-
-- PAKDD 2023 最佳论文提名
-- 2020 年莫纳什大学 Wong Swee Soon 学生卓越奖

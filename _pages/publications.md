@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
+title: Publications
 description: "* denotes corresponding author. Full list also on <a href=\"https://scholar.google.com/citations?user=zn19uAcAAAAJ\">Google Scholar</a>."
 nav: true
 nav_order: 1

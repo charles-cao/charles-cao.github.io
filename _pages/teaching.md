@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description: Teaching assistant at Deakin University, 2022 to 2025.
 nav: true
 nav_order: 3
