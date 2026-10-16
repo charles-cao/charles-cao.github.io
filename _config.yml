@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Charles Cao"
-description              : "3rd year PhD candidate at Deakin University "
+description              : "Postdoctoral Researcher at Great Bay University and Tsinghua University"
 repository               : "charles-cao/charles-cao.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yang (Charles) Cao"
   avatar           : "images/citations.jpeg"
-  bio              : "Deakin University"
-  location         : "Melbourne, Australia"
+  bio              : "Postdoc @ Great Bay University & Tsinghua University"
+  location         : "Dongguan, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=zn19uAcAAAAJ"
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "charles-cao"
+  github           : "charles-cao"
   google_plus      :
   keybase          :
   instagram        :

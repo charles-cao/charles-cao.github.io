@@ -3,19 +3,23 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  # - title: "News"
-  #   url: "/#-news"
+  - title: "News"
+    url: "/#-news"
+
   - title: "Educations"
     url: "/#-educations"
 
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "Grants"
+    url: "/#-grants"
 
   - title: "Tutorial Talks"
     url: "/#-tutorial-talks"
+
+  - title: "Services"
+    url: "/#-academic-services"
 
   - title: "Experience"
     url: "/#-experience"
